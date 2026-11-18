@@ -1,8 +1,8 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/ExampleLib/ExampleLib.csproj" />
+    <Project Path="src/TaflCompiler.Lexer/TaflCompiler.Lexer.csproj" />
   </Folder>
   <Folder Name="/tests/">
-    <Project Path="tests/ExampleLib.UnitTests/ExampleLib.UnitTests.csproj" />
+    <Project Path="tests/TaflCompiler.Lexer.Tests/TaflCompiler.Lexer.Tests.csproj" />
   </Folder>
 </Solution>
